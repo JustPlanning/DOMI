@@ -8,4 +8,12 @@
 body{
     font-family: 'JalnanGothic';
     text-align: center;
+    background-image: url('https://zrr.kr/l1i0');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cat {
+    width: 1000px;
+    height: 535px;
 }

@@ -2,8 +2,15 @@ const images = [
     "https://zrr.kr/Vcqv",
     "https://zrr.kr/7wVw",
     "https://zrr.kr/lMtf",
-    "https://zrr.kr/vOxl"
+    "https://zrr.kr/vOxl",
+
+    "https://zrr.kr/tRL8",
+    "https://zrr.kr/qPOj",
+    "https://zrr.kr/rG5b",
+    "https://zrr.kr/qwZb",
 ];
+
+
 
 let currentIdx = 0;
 let count = 0;
